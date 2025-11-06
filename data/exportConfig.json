@@ -1,0 +1,7 @@
+{
+  "format": "json",
+  "imagePath": "./images",
+  "includeHistory": false,
+  "exportImages": true,
+  "exportFormat": "zip"
+}

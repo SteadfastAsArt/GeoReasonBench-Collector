@@ -1,0 +1,44 @@
+[
+  {
+    "id": "difficulty",
+    "name": "Difficulty Level",
+    "label": "Difficulty",
+    "type": "select",
+    "required": false,
+    "description": "Difficulty level of the question",
+    "options": [
+      "Easy",
+      "Medium",
+      "Hard"
+    ]
+  },
+  {
+    "id": "category",
+    "name": "Question Type",
+    "label": "Type",
+    "type": "multiSelect",
+    "options": [
+      "Geographic Reasoning",
+      "Spatial Analysis",
+      "Map Reading",
+      "Data Analysis"
+    ],
+    "required": false,
+    "description": "Category classification of the question"
+  },
+  {
+    "id": "keywords",
+    "name": "Keywords",
+    "label": "Keywords",
+    "type": "input",
+    "required": false,
+    "description": "Keywords related to the question"
+  },
+  {
+    "id": "mh4n66kc7j29r22sd1p",
+    "name": "Data Source",
+    "label": "Data Source",
+    "type": "input",
+    "required": false
+  }
+]
